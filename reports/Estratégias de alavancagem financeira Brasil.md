@@ -287,3 +287,61 @@ A evidência é fraca onde interessa mais para a decisão. Nenhum extrato real c
 O achado mais contraintuitivo é que o mercado brasileiro de 2026 não tem alavanca de varejo com carry positivo documentado: a renda fixa líquida (~11,6%) e o juro real de ~8,7% elevam a barra a ponto de o crédito mais barato disponível sem garantia real (Pronampe, ~19,75%) já exigir um projeto com retorno comprovado, enquanto o crédito de veículo (~26%) e o SBPE contra aluguel (11,2% contra ~4,5% líquido) só se pagam por valorização ou por trabalho do próprio dono. O que parece alavanca é, quase sempre, trabalho (a Fiorino, a moto de locação, o leilão), e a conta correta não é rentabilidade do ativo, mas o que o dono ganha a mais do que ganharia com a moto que tem. Por isso o passo de maior valor esperado é de informação: medir a renda, testar a demanda e adiar a dívida até que o fluxo prove que paga a parcela no pior trimestre.
 
 O que muda daqui para frente depende de três variáveis que os dados deixam abertas: se a Selic cair aos ~12% projetados para 2027 (o que baratearia o crédito com garantia, mas não é base para planejar); o desfecho do Tema 1.291 no STF, que pode redefinir o custo das plataformas; e a estabilização das regras do Pronampe depois da caducidade da MP. Até lá, a assimetria é clara: perder o bem de trabalho com saldo devedor e CPF exposto custa anos, enquanto esperar de três a seis meses para comprovar a renda custa algumas centenas de reais de oportunidade.
+
+## Atualização (segunda rodada): mais rotas por dia, Lalamove, TikTok e o motoboy de R$ 10 mil
+
+**Por que esta seção existe.** Depois da primeira entrega, o usuário contestou o ponto central: segundo ele, uma Fiorino faz bem mais que R$ 400 por dia, motoboys tiram R$ 4 mil, R$ 6 mil, R$ 10 mil ou R$ 12 mil, e a Fiorino em Lalamove, entrega para empresa ou Mercado Livre, Shopee e TikTok deveria render mais. A primeira rodada realmente tinha lacunas nesses pontos (nada de Lalamove, TikTok ou contratos fechados, só duas entrevistas de rota e a média da PNAD para a moto). Três pesquisadores voltaram a campo. Reddit, YouTube e Facebook seguem inacessíveis, então o que segue é a melhor evidência disponível, não um levantamento de extratos.
+
+**Veredito.** A objeção procede em parte. Uma Fiorino com duas rotas por dia fatura bem acima de R$ 400 por dia bruto, e o primeiro relatório subestimou esse lado ao tratar uma rota por dia como padrão. Mas dobrar o bruto não dobra o líquido, porque km, combustível e manutenção sobem junto, e a jornada passa de 12 horas. Do lado da moto, **R$ 10 mil ou R$ 12 mil líquidos não têm evidência** em nenhuma fonte encontrada.
+
+**Fiorino por canal (dados de primeira mão e blogs, 2025 a 2026).**
+
+| Canal / caso | O que foi encontrado | Tipo |
+|---|---|---|
+| Mercado Livre via transportadora, Jundiaí (ago/2025) | R$ 300 por rota, 5 rotas por semana, ~R$ 6 mil brutos por mês; também faz Shopee e Lalamove | Entrevista |
+| Dono de frota de 4 carros, SP (jul/2025) | "R$ 9 a 10 mil por mês" é o bruto da frota com motorista contratado; líquido dele R$ 5 mil a R$ 6 mil | Entrevista |
+| Casal em Curitiba (set a dez/2025) | 2 rotas por dia (3 no fim de ano), 6h à meia-noite, em duas pessoas; ~R$ 335 por dia fixos ou R$ 0,90 a R$ 1,50 por pacote; sem líquido | Entrevista |
+| Goiás e DF (set/2026) | R$ 270 por rota de utilitário, sem reajuste há mais de 3 anos, ameaça de paralisação; lido só em trecho de busca | A confirmar |
+| Lalamove | Aceita Fiorino, Kangoo, Partner e Doblò sem limite de ano; preços de exemplo de R$ 1,40 a R$ 2,70 por km, com reclamações de menos de R$ 1 por km; comissão para utilitário não encontrada (a de moto caiu para 5,99% em corridas até 10 km, fev/2026) | Regras oficiais; preço por relatos |
+| TikTok Shop, Magalu, Amazon, J&T, Jadlog | Nenhum valor de pagamento para Fiorino; o TikTok Logistics existe no Brasil desde jul/2025, sem dado de motorista | Sem dado |
+| Contrato fixo com empresa | Diárias de blog de R$ 150 a R$ 380; vagas CLT de Fiorino a R$ 2 mil a R$ 3 mil; um anúncio de agregado a R$ 7,5 mil a R$ 9,4 mil só em trecho de busca | Blog / anúncio |
+
+**Cenários dos pesquisadores (cálculos com premissas próprias: 8,5 km/l, combustível a R$ 6 a R$ 6,20, manutenção de R$ 0,30 a R$ 0,40 por km, parcela de R$ 1.597 a R$ 2.000 mais custos fixos; depreciação não incluída).**
+
+| Cenário | Bruto/mês | Sobra após a parcela |
+|---|---|---|
+| Marketplace, 1 rota de R$ 250 por dia, 24 dias | R$ 6.000 | ≈ R$ 90 |
+| R$ 335 por dia, 25 dias | R$ 8.375 | ≈ R$ 1.800 |
+| R$ 400 por dia, 25 dias | R$ 10.000 | ≈ R$ 2.630 |
+| 2 rotas de R$ 300, 26 dias (pico de fim de ano de um casal) | R$ 15.600 | ≈ R$ 6.130 |
+| Lalamove conservador (R$ 1,70/km, 9 h/dia, 150 km) | R$ 5.600 | −R$ 1.100 |
+| Lalamove base (R$ 2,20/km, 10 h/dia, 180 km) | R$ 9.500 | +R$ 1.300 |
+| Lalamove otimista (R$ 3,00/km, 10 h/dia, 200 km) | R$ 15.600 | +R$ 7.000 |
+
+Na Lalamove o equilíbrio fica em ~R$ 1,30 de oferta bruta por km rodado, vazio incluído. Com o carro já quitado, o cenário base do marketplace sobe para ~R$ 3,8 mil e o de R$ 400 por dia para ~R$ 4,6 mil. Todos os cenários, menos o conservador, passam do teto de R$ 81 mil por ano do MEI (a tolerância de 20% e o teto do MEI Caminhoneiro vieram do conhecimento geral do pesquisador e precisam de confirmação por contador). O R$ 15,6 mil do caso otimista é o pico de fim de ano de duas pessoas, e não deve ser lido como ganho por pessoa nem média anual. Os números diferem dos da seção anterior porque as premissas de custo fixo e parcela são outras.
+
+**Moto: quanto o motoboy realmente tira (líquido por mês).**
+
+| Perfil | Líquido | Base |
+|---|---|---|
+| Piso: média de motociclista de app | R$ 2.221 | PNAD 2025, 44,9 h/semana, R$ 11,4 por hora |
+| Tempo integral, 40 a 50 h/semana | R$ 2.700 a R$ 3.600 | Estudo Cebrap/Amobitec (financiado por plataformas), dados até abr/2024 |
+| Top ~10% | ≈ R$ 4.200 (≈ R$ 4.700 em 2026) | Mesma pesquisa, 3 salários mínimos ou mais, autodeclarado |
+| 60 a 70 h/semana | R$ 4.000 a R$ 4.900 | Cálculo, ~R$ 16 líquidos por hora |
+| R$ 6 mil ou mais | Sem relato verificado | Exigiria vários apps pagando acima da média, ou mais de 80 h/semana |
+| R$ 10 mil a R$ 12 mil | Sem evidência | O único relato de R$ 12 mil é bruto, dos melhores meses, com R$ 2.500 de custo; o combustível sugere carro ou van |
+
+O topo vem de horas e não de um pagamento maior por hora: nos dados do iFood o pagamento bruto por hora é quase igual em todas as faixas (R$ 25,5, R$ 26,8 e R$ 27,0 em 2023, para até 90, de 90 a 180 e mais de 180 horas por mês), e menos de 1% dos entregadores passa de 180 horas por mês. A R$ 28,60 por hora, R$ 10 mil brutos exigem ~350 horas de trabalho pago por mês e R$ 12 mil ~420. O custo operacional de uma CG 160 é de cerca de R$ 0,25 a R$ 0,35 por km (R$ 0,40 a R$ 0,55 com depreciação), e o custo variável de uma Fiorino é de 3 a 4 vezes isso, de modo que o "R$ 4 mil a R$ 12 mil" dos motoboys diz pouco sobre a Fiorino. Um aviso de segurança: SP registrou 1.329 mortes de motociclistas no primeiro semestre de 2025, cerca de 41% dos entregadores de app já tiveram acidente de trabalho e só 19,4% dos motociclistas de app contribuem para o INSS.
+
+**O que muda na decisão.** O ponto de equilíbrio da rota depende de quanto a moto realmente líquida:
+
+| Moto líquida | Rota que empata durante as 48 parcelas | Depois de quitada |
+|---|---|---|
+| R$ 2.221 (média) | R$ 268 | ≈ R$ 201 |
+| R$ 3.200 | R$ 314 | R$ 242 |
+| R$ 4.000 | R$ 347 | ≈ R$ 275 |
+| R$ 6.000 (extrapolado) | ≈ R$ 430 | ≈ R$ 357 |
+
+Valores por rota, com 24 dias e uma rota por dia. Por hora, a moto rende de R$ 11 a R$ 21 líquidos, a Fiorino financiada cerca de R$ 7,5 e a Fiorino quitada cerca de R$ 14 (cálculos dos pesquisadores). A Fiorino bate uma moto que líquida até uns R$ 3,2 mil a R$ 4 mil. Não bate uma moto de topo, mas essa exige 60 a 70 horas por semana, e a Fiorino com duas rotas também exige jornada longa ou um segundo motorista. A decisão depende, portanto, de duas medidas que só o usuário tem: o líquido real da moto nos últimos 3 a 6 meses, com as horas, e quantas rotas por dia a sua região oferece na Fiorino (ou se há contrato fixo).
+
+**Lacunas que continuam abertas.** Nenhum extrato semanal com horas de quem diz tirar R$ 10 mil ou R$ 12 mil (peça a quem afirma isso: bruto ou líquido, quantos apps, quantos km). A tabela oficial de preço por km e a comissão da Lalamove para utilitário, o pagamento de TikTok Shop, Magalu e J&T, e os valores de contrato fixo mensal com empresa. Sem PNAD por decil, sem dados do iFood para operadores logísticos em 2026 e sem a fonte do preço de pneus e do ganho de quem usa vários apps.
